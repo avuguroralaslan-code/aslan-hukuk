@@ -1,0 +1,7 @@
+# Claude Code proje notlari — YAYINA GIRMEMELI.
+# Icinde sitenin kokeni ve is notlari var; canliya cikarsa herkes okuyabilir.
+.claude/
+
+# Gecici / kaynak dosyalar
+*.tmp
+WhatsApp Image*
