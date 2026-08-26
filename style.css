@@ -1267,7 +1267,9 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
 
 /* İstatistikler */
 .stats-bolge { background: var(--teal-900); padding: var(--space-9) 0; }
-.stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); }
+/* Rozet sayısına göre kendini ayarlar — sabit sütun sayısı verilmez,
+   yoksa rozet çıkarıldığında sağda boşluk kalır. */
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); }
 .stat-item {
   text-align: center;
   padding: var(--space-5) var(--space-4);
