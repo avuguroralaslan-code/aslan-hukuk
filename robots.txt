@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.aslanhukuk.com.tr/sitemap.xml
+Sitemap: https://www.uguroaslan.com/sitemap.xml

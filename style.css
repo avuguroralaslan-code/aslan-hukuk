@@ -15,7 +15,7 @@
   --teal-200: #B7E9F4;
   --teal-100: #E4F8FB;
 
-  --gold-dark:  #AD8636;
+  --gold-dark:  #7A5E1A; /* metin rengi: krem/beyaz/altın-soluk zeminde WCAG AA (>=5:1) */
   --gold:       #C9A24B;
   --gold-light: #E0C078;
   --gold-pale:  #F5EAD1;
@@ -27,8 +27,8 @@
 
   --text-900: #0A2530;
   --text-700: #2B4650;
-  --text-500: #587584;
-  --text-300: #8CA6AF;
+  --text-500: #4A6674; /* AA: krem-200 zeminde 5:1 */
+  --text-300: #516A77; /* AA: altın-soluk zeminde >=4.5:1 */
   --text-200: #B9CCD3;
 
   --white: #FFFFFF;
@@ -40,7 +40,7 @@
 
   /* --- Tipografi ölçeği (akışkan; tek kaynak) ---
      Bileşenlerde sabit px yazma, bu tokenları kullan. */
-  --fs-2xs:  11px;
+  --fs-2xs:  12px;
   --fs-xs:   clamp(12px,  11.6px + 0.12vw, 13px);
   --fs-sm:   clamp(14px,  13.6px + 0.12vw, 15px);
   --fs-base: clamp(15px,  14.4px + 0.2vw,  17px);
@@ -667,7 +667,7 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
   color: var(--gold-light);
   transform: translateY(-1px);
 }
-.btn-whatsapp { background: #25A84C; color: #fff; }
+.btn-whatsapp { background: #157A36; color: #fff; }
 .btn-whatsapp:hover { background: #1E9040; transform: translateY(-1px); }
 .btn-sm { padding: 9px 20px; font-size: var(--fs-xs); }
 .btn-full { width: 100%; justify-content: center; }
@@ -1503,13 +1503,13 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
 .channel-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.15); }
 .channel-phone  { background: var(--teal-700); }
 .channel-phone:hover  { background: var(--teal-600); }
-.channel-wa     { background: #25A84C; }
-.channel-wa:hover     { background: #1E9040; }
+.channel-wa     { background: #157A36; }
+.channel-wa:hover     { background: #11662C; }
 .channel-email  { background: transparent; border-color: rgba(201,162,75,0.3); color: var(--text-700); }
 .channel-email:hover  { border-color: var(--gold); background: var(--gold-pale); }
 .channel-icon   { font-size: var(--fs-xl); }
 .channel-label  { font-size: var(--fs-sm); display: block; }
-.channel-sub    { font-size: var(--fs-xs); opacity: 0.7; display: block; margin-top: 2px; font-weight: var(--fw-regular); }
+.channel-sub    { font-size: var(--fs-xs); opacity: 1; display: block; margin-top: 2px; font-weight: var(--fw-regular); }
 .channel-sub.is-muted { color: var(--text-500); }
 
 .contact-cards {
@@ -2061,7 +2061,7 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
 .makale-acc-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
 .makale-acc-tag {
   background: var(--cream-200);
-  color: var(--teal-600);
+  color: var(--teal-800);
   font-size: var(--fs-2xs);
   font-weight: 600;
   padding: 3px 9px;
@@ -2136,7 +2136,7 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
   border-radius: var(--radius-sm);
   padding: 13px 16px;
   font-size: var(--fs-sm);
-  color: var(--teal-600);
+  color: var(--text-700);
   line-height: 1.75;
   margin-top: 20px;
 }
@@ -2363,7 +2363,7 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
   margin-bottom: var(--space-2);
   letter-spacing: var(--ls-tighter);
   color: transparent;
-  -webkit-text-stroke: 2px var(--teal-300);
+  -webkit-text-stroke: 2px var(--teal-600);
 }
 .error-title {
   font-family: var(--font-display);
@@ -2729,3 +2729,35 @@ h1, h2, h3, [id] { scroll-margin-top: 88px; }
   font-size: var(--fs-sm);
   color: var(--text-300);
 }
+
+/* === ERİŞİLEBİLİRLİK DÜZELTMELERİ (2026-11) =============
+   Kontrast (WCAG AA) ve dokunma hedefi (min 44px). Markanın ana rengi
+   (--teal-500) değişmedi; yalnızca metin tonları ve saydamlıklar. */
+.footer { color: rgba(246,244,238,0.74); }
+.footer-col a,
+.footer-bolgeler a { color: rgba(246,244,238,0.74); }
+.footer-brand-sub,
+.footer-bolgeler-label { color: rgba(246,244,238,0.64); }
+.footer-col ul { gap: 0; }
+.footer-col a,
+.footer-contact-item a,
+.footer-bottom a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+.footer-contact-item { margin-bottom: 0; align-items: center; }
+.footer-contact-item span { padding-block: 10px; }
+.service-link { display: inline-flex; align-items: center; min-height: 44px; }
+.filtre-btn { min-height: 44px; }
+.nav-logo { display: inline-flex; align-items: center; min-height: 44px; }
+.skip-link { min-height: 44px; display: inline-flex; align-items: center; }
+.faq-details summary { min-height: 44px; display: flex; align-items: center; }
+.info-row a,
+.about-intro-text a,
+.lawyer-detail-body a { display: inline-flex; align-items: center; min-height: 44px; }
+
+.breadcrumb a { display: inline-flex; align-items: center; min-height: 44px; }
+.bolge-cross-links-row a { display: inline-flex; align-items: center; min-height: 44px; }
+
+@media (max-width: 768px) { .footer-bottom { padding-bottom: 96px; } }

@@ -1,149 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.aslanhukuk.com.tr/index.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/index.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/about.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/about.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/services.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/services.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/makaleler.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/makaleler.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/contact.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/contact.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/arabuluculuk.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/arabuluculuk.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/hesaplama.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/hesaplama.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Makale Sayfaları -->
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/hagb-nedir.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/ceza-hukukunda-uzlasma.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/hapis-cezasinin-ertelenmesi.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/uyusturucu-kullanim-ticaret-ayrimi.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/cekismeli-bosanma.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/velayet-davasi.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/nafaka-artirim-azaltim.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/ise-iade-davasi.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/makale/kidem-tazminati-rehberi.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   <!-- Bölge SEO Sayfaları -->
   <url>
-    <loc>https://www.aslanhukuk.com.tr/bakirkoy-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <loc>https://www.uguroaslan.com/bakirkoy-avukat.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/bagcilar-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/bahcelievler-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/esenler-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/bayrampasa-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/gungoren-avukat.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.aslanhukuk.com.tr/gizlilik.html</loc>
+    <loc>https://www.uguroaslan.com/gizlilik.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.aslanhukuk.com.tr/zeytinburnu-avukat.html</loc>
+    <loc>https://www.uguroaslan.com/zeytinburnu-avukat.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/odeme-emrine-itiraz.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/alacak-zamanasimi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/ticari-davalarda-zorunlu-arabuluculuk.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/kira-artisi-ve-kira-sozlesmesinin-sona-ermesi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/ise-iade-davasi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/iscilik-alacaklarinda-sureler.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/ceza-yargilamasinda-kanun-yolu-sureleri.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/uyusturucu-kullanma-ticaret-ayrimi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.uguroaslan.com/makale/bosanmada-mal-rejimi-katilma-alacagi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
